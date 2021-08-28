@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1061860006779-l5rd7t0qeg5u12ud164r4ba1jth8i8ib.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1061860006779-l5rd7t0qeg5u12ud164r4ba1jth8i8ib</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1061860006779-ese9gpcieoc6fhlvgr7lm645fnmfl036.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDPlAGLpNV17tgdiQ99lNvtY1maOeYLak0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1061860006779</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.appentus.FGB</string>
+	<key>PROJECT_ID</key>
+	<string>fgb-shopping</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fgb-shopping.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1061860006779:ios:ec0c0fc3c9af60d2</string>
+	<key>DATABASE_URL</key>
+	<string>https://fgb-shopping.firebaseio.com</string>
+</dict>
+</plist>
